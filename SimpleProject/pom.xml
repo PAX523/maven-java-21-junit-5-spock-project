@@ -19,7 +19,7 @@
     <spock.version>2.4-M1-groovy-4.0</spock.version>
     <groovy.version>4.0.17</groovy.version>
 
-    <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
+    <maven.compiler.plugin.version>3.12.1</maven.compiler.plugin.version>
     <maven.jar.plugin.version>3.3.0</maven.jar.plugin.version>
     <maven.surefire.plugin.version>3.1.2</maven.surefire.plugin.version>
   </properties>
