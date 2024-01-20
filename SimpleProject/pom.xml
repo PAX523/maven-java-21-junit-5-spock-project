@@ -68,12 +68,6 @@
         <configuration>
           <testSources>
             <testSource>
-              <directory>${project.basedir}/src/test/java</directory>
-              <includes>
-                <include>**/*.java</include>
-              </includes>
-            </testSource>
-            <testSource>
               <directory>${project.basedir}/src/test/groovy</directory>
               <includes>
                 <include>**/*.groovy</include>
